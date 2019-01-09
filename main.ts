@@ -7,7 +7,7 @@
 /**
  * DS1307 block
  */
-//% weight=100 color=#8000f0 icon="\uf017" block="DS1307"
+//% weight=100 color=#8000f0 icon="\uf017" block="DS1307-RTC"
 namespace DS1307 {
     let DS1307_I2C_ADDR = 104;
     let DS1307_REG_SECOND = 0
